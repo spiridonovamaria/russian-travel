@@ -1,0 +1,12 @@
+.place__url-heading {
+    margin: 0 0 12px 0;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    color: #AAAAAA;
+    font-style: normal;
+    font-weight: 400;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-end;
+}
