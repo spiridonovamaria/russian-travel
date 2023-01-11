@@ -16,3 +16,5 @@
 *Grid-layout  
 *Позиционирование блоков и элементов  
 *Адаптивная верстка под размеры экранов 1280px, 1024px, 768px, 320px  
+
+[Ссылка на проект](https://spiridonovamaria.github.io/russian-travel/)
