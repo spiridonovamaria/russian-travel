@@ -1,6 +1,6 @@
 .cover__subtitle {
     max-width: 360px;
-    margin: 0 auto;
+    margin: 32px 0 0;
     font-family: 'Inter', Arial, sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -16,5 +16,6 @@
         max-width: 288px;
         font-size: 14px;
         line-height: 16px;
+        margin: 16px 0 0;
     }
 }
