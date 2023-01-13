@@ -4,8 +4,8 @@
     grid-template-columns: 460px auto;
     grid-template-rows: 1fr;
     gap: 48px 40px;
-    
-    
+
+
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
